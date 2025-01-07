@@ -9,8 +9,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "WechatOpenSDK",
-            url: "http://dldir1.qq.com/WechatWebDev/opensdk/XCFramework/OpenSDK2.0.4.zip",
-            checksum: "e9fbaf3cd69f1e0b2dce6d4a9713d797ad4e4c42903adebe359ef569e6aca388"
+            url: "https://github.com/tema-tian/WechatOpenSDK-Swift/releases/download/0.0.1/WechatOpenSDK-XCFramework.xcframework.zip",
+            checksum: "d7993e0621a1d2496e89c6bdbb39bae5fe384b2d972f81c9a6d6376e63f2c469"
         )
     ]
 )
